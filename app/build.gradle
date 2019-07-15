@@ -66,4 +66,6 @@ dependencies {
 
     implementation rootProject.ext.dependencies["progressmanager"]
     implementation rootProject.ext.dependencies["retrofit-url-manager"]
+
+    implementation rootProject.ext.dependencies["paginate"] //view
 }
